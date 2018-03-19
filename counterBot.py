@@ -79,4 +79,4 @@ async def counterDownMass(ctx, arg):
     else:
         await bot.say("There are now %s in the %s counter."%(values[currentCounter],counters[currentCounter]))
         
-bot.run("NDA3NzU5MjkxNzgxNzQyNTkz.DVGlFQ.Lyo2t9wPoZLp1DrPxbhSfSsaGuY")
+bot.run("[replace with token]")
